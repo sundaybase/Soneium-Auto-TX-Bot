@@ -34,7 +34,7 @@ private_key_3
 Make sure you have Python installed on your system. Then, install the required dependencies using the requirements.txt file:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### 5. Run the Bot
